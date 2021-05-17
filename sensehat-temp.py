@@ -1,5 +1,5 @@
-#pihatsensor
-# Na aplicação use sense_hat no emulador use sense_emu
+# sensehat-temp.py
+# Na aplicação use sense_hat no emulador use sense_emu https://sense-emu.readthedocs.io/en/v1.0/install.html
 # from sense_hat import SenseHat
 from sense_emu import SenseHat
 sense = SenseHat()
